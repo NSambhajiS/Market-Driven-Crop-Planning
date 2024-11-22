@@ -1,0 +1,541 @@
+Fruit name,month,year,min price,max price
+Jack Fruit,January,2021,400,1500
+Jack Fruit,February,2021,400,1200
+Jack Fruit,March,2021,400,1600
+Jack Fruit,April,2021,1000,2000
+Jack Fruit,May,2021,1000,2000
+Jack Fruit,June,2021,1000,1700
+Jack Fruit,July,2021,800,1200
+Jack Fruit,August,2021,500,1500
+Jack Fruit,September,2021,400,1500
+Jack Fruit,October,2021,400,1200
+Jack Fruit,November,2021,400,1600
+Jack Fruit,December,2021,400,1600
+Orange,January,2021,1100,5000
+Orange,February,2021,1300,5600
+Orange,March,2021,1300,6200
+Orange,April,2021,7000,15000
+Orange,May,2021,12000,15000
+Orange,June,2021,10000,15000
+Orange,July,2021,2000,8700
+Orange,August,2021,3000,8000
+Orange,September,2021,5000,7000
+Orange,October,2021,2000,6200
+Orange,November,2021,2000,6200
+Orange,December,2021,1600,5600
+Pear,January,2021,8000,12000
+Pear,February,2021,8000,12000
+Pear,March,2021,7000,13000
+Pear,April,2021,4000,10000
+Pear,May,2021,5000,11000
+Pear,June,2021,5000,10000
+Pear,July,2021,4000,12000
+Pear,August,2021,3000,8000
+Pear,September,2021,5000,10000
+Pear,October,2021,8000,12000
+Pear,November,2021,7000,13000
+Pear,December,2021,4000,12000
+Pumpkin,January,2021,1000,1500
+Pumpkin,February,2021,1000,1200
+Pumpkin,March,2021,1200,2000
+Pumpkin,April,2021,800,1500
+Pumpkin,May,2021,1200,1500
+Pumpkin,June,2021,1200,1500
+Pumpkin,July,2021,1200,1500
+Pumpkin,August,2021,1200,3500
+Pumpkin,September,2021,1200,2000
+Pumpkin,October,2021,1200,2500
+Pumpkin,November,2021,1000,2500
+Pumpkin,December,2021,1000,2000
+Apple,January,2021,8000,9500
+Apple,February,2021,8000,9500
+Apple,March,2021,8000,10000
+Apple,April,2021,8000,10000
+Apple,May,2021,8000,10000
+Apple,June,2021,8000,9500
+Apple,July,2021,7000,9500
+Apple,August,2021,7000,9500
+Apple,September,2021,6000,8500
+Apple,October,2021,6000,7500
+Apple,November,2021,6000,7500
+Apple,December,2021,4000,15000
+Banana,January,2021,2000,3500
+Banana,February,2021,2000,3000
+Banana,March,2021,2000,3500
+Banana,April,2021,2500,4000
+Banana,May,2021,3000,4000
+Banana,June,2021,2000,4000
+Banana,July,2021,2000,3000
+Banana,August,2021,2000,3000
+Banana,September,2021,2000,4000
+Banana,October,2021,2000,3000
+Banana,November,2021,2000,3000
+Banana,December,2021,2000,3000
+Chikoo,January,2021,1000,3500
+Chikoo,February,2021,1000,4000
+Chikoo,March,2021,1000,3000
+Chikoo,April,2021,1000,3000
+Chikoo,May,2021,1000,4000
+Chikoo,June,2021,1000,4000
+Chikoo,July,2021,1000,3000
+Chikoo,August,2021,1000,2500
+Chikoo,September,2021,1000,3500
+Chikoo,October,2021,1000,3000
+Chikoo,November,2021,1000,3500
+Chikoo,December,2021,1000,3500
+Pineapple,January,2021,1500,3000
+Pineapple,February,2021,1600,3000
+Pineapple,March,2021,1500,3000
+Pineapple,April,2021,1600,3000
+Pineapple,May,2021,1600,3000
+Pineapple,June,2021,1500,3000
+Pineapple,July,2021,1500,3000
+Pineapple,August,2021,1500,3000
+Pineapple,September,2021,1500,3000
+Pineapple,October,2021,1500,2500
+Pineapple,November,2021,1500,3000
+Pineapple,December,2021,1400,3000
+Pomegranate,January,2021,5000,7000
+Pomegranate,February,2021,5000,7500
+Pomegranate,March,2021,5000,7500
+Pomegranate,April,2021,5000,8000
+Pomegranate,May,2021,6000,8000
+Pomegranate,June,2021,6000,7500
+Pomegranate,July,2021,6000,7500
+Pomegranate,August,2021,5000,7500
+Pomegranate,September,2021,5000,6500
+Pomegranate,October,2021,5000,7000
+Pomegranate,November,2021,5000,7500
+Pomegranate,December,2021,5000,7500
+Orange,January,2021,1100,6200
+Orange,February,2021,1100,7000
+Orange,March,2021,1300,15000
+Orange,April,2021,7000,17000
+Orange,May,2021,8000,15000
+Orange,June,2021,2000,16000
+Orange,July,2021,2000,12000
+Orange,August,2021,3000,8000
+Orange,September,2021,1000,10000
+Orange,October,2021,1100,7200
+Orange,November,2021,1400,7500
+Orange,December,2021,1100,8200
+guava,January,2021,1000,6000
+guava,February,2021,1000,6000
+guava,March,2021,1000,5000
+guava,April,2021,1000,4000
+guava,May,2021,1000,3500
+guava,June,2021,1000,3000
+guava,July,2021,1500,2500
+guava,August,2021,500,4000
+guava,September,2021,1000,6000
+guava,October,2021,1000,4000
+guava,November,2021,1000,3500
+guava,December,2021,1000,3500
+papaya,January,2021,1200,2000
+papaya,February,2021,1200,2000
+papaya,March,2021,1200,2000
+papaya,April,2021,1200,2000
+papaya,May,2021,1200,2000
+papaya,June,2021,1200,1600
+papaya,July,2021,1200,2500
+papaya,August,2021,1200,2500
+papaya,September,2021,1200,2500
+papaya,October,2021,1200,2500
+papaya,November,2021,1200,2500
+papaya,December,2021,1200,2000
+water melon,January,2021,500,1200
+water melon,February,2021,300,1000
+water melon,March,2021,300,1500
+water melon,April,2021,500,2000
+water melon,May,2021,300,1200
+water melon,June,2021,300,1200
+water melon,July,2021,300,1200
+water melon,August,2021,300,1200
+water melon,September,2021,300,1000
+water melon,October,2021,500,1500
+water melon,November,2021,500,2500
+water melon,December,2021,500,3000
+grapes,January,2021,1000,1200
+grapes,February,2021,1000,1500
+grapes,March,2021,2000,15000
+grapes,April,2021,2000,15000
+grapes,May,2021,2000,11000
+grapes,June,2021,2000,11000
+grapes,July,2021,2000,12000
+grapes,August,2021,2000,12000
+grapes,September,2021,2000,14000
+grapes,October,2021,2000,15000
+grapes,November,2021,2000,16000
+grapes,December,2021,2000,14000
+plum,January,2021,4000,10000
+plum,February,2021,4000,10000
+plum,March,2021,4000,10000
+plum,April,2021,4000,11000
+plum,May,2021,4000,11000
+plum,June,2021,4000,10000
+plum,July,2021,4000,12000
+plum,August,2021,4000,15000
+plum,September,2021,4000,20000
+plum,October,2021,4000,20000
+plum,November,2021,4000,11000
+plum,December,2021,4000,105000
+Jack Fruit,January,2022,2000,4000
+Jack Fruit,February,2022,1000,1600
+Jack Fruit,March,2022,1000,2000
+Jack Fruit,April,2022,2000,4000
+Jack Fruit,May,2022,1000,2000
+Jack Fruit,June,2022,1000,2000
+Jack Fruit,July,2022,1000,3000
+Jack Fruit,August,2022,1600,3300
+Jack Fruit,September,2022,1000,2000
+Jack Fruit,October,2022,400,1600
+Jack Fruit,November,2022,1000,1500
+Jack Fruit,December,2022,2000,3000
+Orange,January,2022,1300,6200
+Orange,February,2022,2000,8000
+Orange,March,2022,1300,6800
+Orange,April,2022,1100,7000
+Orange,May,2022,1200,9300
+Orange,June,2022,1500,9100
+Orange,July,2022,1500,10000
+Orange,August,2022,6000,10000
+Orange,September,2022,4000,7000
+Orange,October,2022,3500,6500
+Orange,November,2022,2500,9000
+Orange,December,2022,3000,9000
+Pear,January,2022,6000,13000
+Pear,February,2022,9000,14000
+Pear,March,2022,8000,12000
+Pear,April,2022,10000,16000
+Pear,May,2022,8000,12000
+Pear,June,2022,6000,14000
+Pear,July,2022,8000,12000
+Pear,August,2022,6000,11000
+Pear,September,2022,6000,11000
+Pear,October,2022,6000,10000
+Pear,November,2022,6000,12000
+Pear,December,2022,7000,9000
+Pumpkin,January,2022,1000,2500
+Pumpkin,February,2022,1000,2000
+Pumpkin,March,2022,1000,2500
+Pumpkin,April,2022,1500,2500
+Pumpkin,May,2022,1000,2500
+Pumpkin,June,2022,1000,2000
+Pumpkin,July,2022,1000,2000
+Pumpkin,August,2022,1000,3000
+Pumpkin,September,2022,800,2500
+Pumpkin,October,2022,1000,3000
+Pumpkin,November,2022,1000,3000
+Pumpkin,December,2022,1000,2500
+Apple,January,2022,4000,15000
+Apple,February,2022,4000,15000
+Apple,March,2022,4000,16000
+Apple,April,2022,4000,16000
+Apple,May,2022,4000,16000
+Apple,June,2022,4000,16000
+Apple,July,2022,4000,16000
+Apple,August,2022,4000,15000
+Apple,September,2022,4000,14000
+Apple,October,2022,4000,10000
+Apple,November,2022,4000,10000
+Apple,December,2022,4000,15000
+Banana,January,2022,2000,3000
+Banana,February,2022,2000,3000
+Banana,March,2022,1100,3000
+Banana,April,2022,1000,2000
+Banana,May,2022,1000,4000
+Banana,June,2022,1000,2500
+Banana,July,2022,1000,2500
+Banana,August,2022,1000,2000
+Banana,September,2022,1000,2000
+Banana,October,2022,1000,2000
+Banana,November,2022,1000,2000
+Banana,December,2022,1000,2000
+Chikoo,January,2022,1000,3500
+Chikoo,February,2022,1000,3000
+Chikoo,March,2022,800,3500
+Chikoo,April,2022,1000,4000
+Chikoo,May,2022,700,4500
+Chikoo,June,2022,1000,3500
+Chikoo,July,2022,2000,10000
+Chikoo,August,2022,1000,7000
+Chikoo,September,2022,1000,5000
+Chikoo,October,2022,1000,5500
+Chikoo,November,2022,1000,5500
+Chikoo,December,2022,1000,4000
+Pineapple,january,2022,1400,3000
+Pineapple,february,2022,1400,3000
+Pineapple,march,2022,1200,3000
+Pineapple,april,2022,1100,3000
+Pineapple,may,2022,1000,3000
+Pineapple,june,2022,1000,3000
+Pineapple,july,2022,1000,3500
+Pineapple,august,2022,1000,3600
+Pineapple,september,2022,1000,4000
+Pineapple,october,2022,1000,4000
+Pineapple,november,2022,1000,4000
+Pineapple,december,2022,1000,3300
+Pomegranate,January,2022,5000,7500
+Pomegranate,February,2022,5000,8000
+Pomegranate,March,2022,6000,8000
+Pomegranate,April,2022,5500,8000
+Pomegranate,May,2022,3000,12000
+Pomegranate,June,2022,2000,17000
+Pomegranate,July,2022,2000,20000
+Pomegranate,August,2022,1500,21000
+Pomegranate,September,2022,1000,26000
+Pomegranate,October,2022,1000,26000
+Pomegranate,November,2022,1000,17000
+Pomegranate,December,2022,1000,22000
+Orange,January,2022,1200,8800
+Orange,February,2022,1000,9000
+Orange,March,2022,1000,8100
+Orange,April,2022,1000,11000
+Orange,May,2022,1000,10000
+Orange,June,2022,1400,10000
+Orange,July,2022,1500,12000
+Orange,August,2022,4000,11000
+Orange,September,2022,2500,10000
+Orange,October,2022,2000,9000
+Orange,November,2022,800,9000
+Orange,December,2022,2000,10000
+guava,January,2022,1000,4000
+guava,February,2022,1000,4000
+guava,March,2022,1500,4000
+guava,April,2022,1000,4000
+guava,May,2022,1000,4000
+guava,June,2022,1000,3000
+guava,July,2022,1000,5500
+guava,August,2022,1500,5000
+guava,September,2022,1000,6000
+guava,October,2022,1000,6000
+guava,November,2022,1000,4500
+guava,December,2022,1000,4000
+papaya,January,2022,1100,2000
+papaya,February,2022,1100,2000
+papaya,March,2022,1100,2000
+papaya,April,2022,1100,2000
+papaya,May,2022,1000,2000
+papaya,June,2022,1000,2000
+papaya,July,2022,1000,2000
+papaya,August,2022,1100,3000
+papaya,September,2022,1000,3000
+papaya,October,2022,1000,2600
+papaya,November,2022,1000,3000
+papaya,December,2022,1000,2000
+water melon,January,2022,500,2500
+water melon,February,2022,500,2500
+water melon,March,2022,500,2200
+water melon,April,2022,500,2000
+water melon,May,2022,400,2000
+water melon,June,2022,400,1500
+water melon,July,2022,300,1300
+water melon,August,2022,300,1000
+water melon,September,2022,500,1500
+water melon,October,2022,500,2000
+water melon,November,2022,500,2000
+water melon,December,2022,500,2000
+grapes,January,2022,2000,10000
+grapes,February,2022,1500,8500
+grapes,March,2022,1500,10000
+grapes,April,2022,2000,14000
+grapes,May,2022,1500,11000
+grapes,June,2022,1500,11000
+grapes,July,2022,3000,11000
+grapes,August,2022,5000,12000
+grapes,September,2022,5000,12000
+grapes,October,2022,4000,8000
+grapes,November,2022,3000,1500
+grapes,December,2022,3000,1800
+plum,January,2022,3000,10000
+plum,February,2022,3000,10000
+plum,March,2022,3000,10000
+plum,April,2022,3000,10000
+plum,May,2022,3000,10000
+plum,June,2022,3000,10000
+plum,July,2022,3000,10000
+plum,August,2022,3000,10000
+plum,September,2022,3000,5000
+plum,October,2022,3000,5000
+plum,November,2022,3000,6000
+plum,December,2022,3000,9000
+Jack Fruit,January,2023,1000,2000
+Jack Fruit,February,2023,1000,2000
+Jack Fruit,March,2023,1000,2000
+Jack Fruit,April,2023,1000,2000
+Jack Fruit,May,2023,1000,2000
+Jack Fruit,June,2023,2000,3000
+Jack Fruit,July,2023,1500,2000
+Jack Fruit,August,2023,1000,2000
+Jack Fruit,September,2023,1000,2000
+Jack Fruit,October,2023,500,2000
+Jack Fruit,November,2023,1000,2000
+Jack Fruit,December,2023,1500,3000
+Orange,January,2023,3500,10000
+Orange,February,2023,3000,6000
+Orange,March,2023,4000,10000
+Orange,April,2023,4000,11000
+Orange,May,2023,4000,8000
+Orange,June,2023,6000,8000
+Orange,July,2023,7000,12000
+Orange,August,2023,6000,10000
+Orange,September,2023,25000,7000
+Orange,October,2023,4000,8000
+Orange,November,2023,1500,4500
+Orange,December,2023,3000,6000
+Pear,January,2023,7000,9000
+Pear,February,2023,7000,8500
+Pear,March,2023,6000,7500
+Pear,April,2023,7500,8500
+Pear,May,2023,7500,8500
+Pear,June,2023,6000,10000
+Pear,July,2023,7500,8500
+Pear,August,2023,4000,8000
+Pear,September,2023,4000,7500
+Pear,October,2023,5000,8500
+Pear,November,2023,6000,7500
+Pear,December,2023,7000,9000
+Pumpkin,January,2023,1000,2500
+Pumpkin,February,2023,1000,2000
+Pumpkin,March,2023,1000,2000
+Pumpkin,April,2023,1000,1500
+Pumpkin,May,2023,1000,1600
+Pumpkin,June,2023,800,2000
+Pumpkin,July,2023,1000,2500
+Pumpkin,August,2023,1000,2000
+Pumpkin,September,2023,1000,2000
+Pumpkin,October,2023,800,2000
+Pumpkin,November,2023,800,1300
+Pumpkin,December,2023,800,2000
+Apple,January,2023,4000,15000
+Apple,February,2023,4000,16000
+Apple,March,2023,4000,16000
+Apple,April,2023,4000,17000
+Apple,May,2023,4000,16000
+Apple,June,2023,4000,16000
+Apple,July,2023,3500,15000
+Apple,August,2023,3000,14000
+Apple,September,2023,3000,13000
+Apple,October,2023,3000,14000
+Apple,November,2023,3000,13000
+Apple,December,2023,3000,15000
+Banana,January,2023,1000,2000
+Banana,February,2023,1000,2000
+Banana,March,2023,1000,2000
+Banana,April,2023,1000,2000
+Banana,May,2023,1000,2000
+Banana,June,2023,1000,2000
+Banana,July,2023,800,1500
+Banana,August,2023,800,1600
+Banana,September,2023,800,1600
+Banana,October,2023,800,1600
+Banana,November,2023,800,1600
+Banana,December,2023,800,1600
+Chikoo,January,2023,1000,4000
+Chikoo,February,2023,1000,3500
+Chikoo,March,2023,1000,5000
+Chikoo,April,2023,1000,5000
+Chikoo,May,2023,1000,5000
+Chikoo,June,2023,500,5000
+Chikoo,July,2023,1000,5000
+Chikoo,August,2023,1000,5000
+Chikoo,September,2023,1000,5000
+Chikoo,October,2023,1000,5500
+Chikoo,November,2023,1000,6000
+Chikoo,December,2023,1000,6000
+Pineapple,January,2023,1000,4000
+Pineapple,February,2023,1000,3600
+Pineapple,March,2023,1000,4000
+Pineapple,April,2023,1000,5000
+Pineapple,May,2023,1000,6300
+Pineapple,June,2023,1000,5300
+Pineapple,July,2023,1000,4000
+Pineapple,August,2023,1000,3500
+Pineapple,September,2023,1000,4000
+Pineapple,October,2023,1000,4600
+Pineapple,November,2023,1000,4600
+Pineapple,December,2023,1000,5000
+Pomegranate,January,2023,1000,27000
+Pomegranate,February,2023,1000,20000
+Pomegranate,March,2023,1000,17000
+Pomegranate,April,2023,1000,17000
+Pomegranate,May,2023,1000,15000
+Pomegranate,June,2023,1000,25000
+Pomegranate,July,2023,1000,21000
+Pomegranate,August,2023,1000,15000
+Pomegranate,September,2023,1000,15000
+Pomegranate,October,2023,1000,12000
+Pomegranate,November,2023,1000,16000
+Pomegranate,December,2023,1000,18000
+Orange,January,2023,2500,10000
+Orange,February,2023,3000,12000
+Orange,March,2023,2000,12000
+Orange,April,2023,3000,12000
+Orange,May,2023,4000,10000
+Orange,June,2023,6000,15000
+Orange,July,2023,6000,13000
+Orange,August,2023,2000,10000
+Orange,September,2023,2500,9000
+Orange,October,2023,1500,12000
+Orange,November,2023,1000,10000
+Orange,December,2023,1000,11000
+guava,January,2023,500,4000
+guava,February,2023,1000,4000
+guava,March,2023,1000,4000
+guava,April,2023,1000,4000
+guava,May,2023,1000,4000
+guava,June,2023,1000,5000
+guava,July,2023,1000,4000
+guava,August,2023,1000,4000
+guava,September,2023,1000,4000
+guava,October,2023,1000,7000
+guava,November,2023,1000,6000
+guava,December,2023,1000,6500
+papaya,January,2023,1000,1500
+papaya,February,2023,1000,2000
+papaya,March,2023,1000,2000
+papaya,April,2023,1000,2000
+papaya,May,2023,1000,2000
+papaya,June,2023,1000,2000
+papaya,July,2023,500,2000
+papaya,August,2023,800,2500
+papaya,September,2023,1000,3000
+papaya,October,2023,1000,3000
+papaya,November,2023,1000,3500
+papaya,December,2023,700,2500
+water melon,January,2023,300,2000
+water melon,February,2023,500,2000
+water melon,March,2023,500,2000
+water melon,April,2023,500,1000
+water melon,May,2023,400,1000
+water melon,June,2023,500,1500
+water melon,July,2023,500,2000
+water melon,August,2023,500,2000
+water melon,September,2023,500,2000
+water melon,October,2023,500,2000
+water melon,November,2023,500,2000
+water melon,December,2023,500,2000
+grapes,January,2023,1500,15000
+grapes,February,2023,2000,12500
+grapes,March,2023,2000,12500
+grapes,April,2023,2000,10000
+grapes,May,2023,2000,11000
+grapes,June,2023,2000,11000
+grapes,July,2023,2000,12500
+grapes,August,2023,2000,12500
+grapes,September,2023,3000,10000
+grapes,October,2023,4000,12500
+grapes,November,2023,4000,14000
+grapes,December,2023,3000,12000
+plum,January,2023,3000,10000
+plum,February,2023,3000,14000
+plum,March,2023,3000,13000
+plum,April,2023,4000,14000
+plum,May,2023,4000,15000
+plum,June,2023,4000,15000
+plum,July,2023,4000,15000
+plum,August,2023,3000,10000
+plum,September,2023,3000,14000
+plum,October,2023,3000,14000
+plum,November,2023,4000,14000
+plum,December,2023,4000,14000
